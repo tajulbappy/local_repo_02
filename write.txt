@@ -1,3 +1,11 @@
 This is a text file.
 
 we can write somthing here...
+
+__________________
+
+we are working on branching :
+
+creation of branching and checkout or assinging the
+new branch,,also working delete existing branch 
+( git branch -d branch name)
